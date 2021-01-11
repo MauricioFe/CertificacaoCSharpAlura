@@ -45,6 +45,7 @@
   <ItemGroup>
     <Compile Include="2 Tipos inteiros\Inteiros.cs" />
     <Compile Include="3 Tipos de Ponto Flutuante\PontoFlutuante.cs" />
+    <Compile Include="4 Decimal\Decimal.cs" />
     <Compile Include="IAulaItem.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
