@@ -81,7 +81,7 @@ namespace certificacao_cSharp_pt1
                 new MenuItem("Decimal", typeof(Decimal)),
                 new MenuItem("Booleanos", typeof(Booleanos)),
                 new MenuItem("Estruturas", typeof(Estruturas)),
-                //new MenuItem("Enumeracoes", typeof(Enumeracoes)),
+                new MenuItem("Enumeracoes", typeof(Enumeracoes)),
                 //new MenuItem("Tipos de Refêrencia", typeof(TiposDeReferencia)),
                 //new MenuItem("Classes", typeof(Classes)),
                 //new MenuItem("Interfaces", typeof(Interfaces)),

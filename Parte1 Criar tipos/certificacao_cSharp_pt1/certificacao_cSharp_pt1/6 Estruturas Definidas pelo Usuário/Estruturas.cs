@@ -31,7 +31,6 @@ namespace certificacao_cSharp_pt1._6_Estruturas_Definidas_pelo_Usuário
     {
         public double Latitude;
         public double Longitude;
-
         public PosicaoGPS(double latitude, double longtude)
         {
             Latitude = latitude;
