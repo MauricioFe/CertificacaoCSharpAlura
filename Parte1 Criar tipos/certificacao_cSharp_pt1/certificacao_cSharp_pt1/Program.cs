@@ -1,5 +1,6 @@
 ﻿using certificacao_cSharp_pt1._2_Tipos_inteiros;
 using certificacao_cSharp_pt1._3_Tipos_de_Ponto_Flutuante;
+using certificacao_cSharp_pt1._5_Booleanos;
 using certificacao_cSharp_pt1.Tipos_de_Valor;
 using System;
 using System.Collections.Generic;
@@ -76,8 +77,8 @@ namespace certificacao_cSharp_pt1
                 new MenuItem("Tipos de Valor", typeof(TiposDeValor)),
                 new MenuItem("Tipos Inteiros", typeof(Inteiros)),
                 new MenuItem("Ponto Flututante", typeof(PontoFlutuante)),
-                //new MenuItem("Decimal", typeof(Decimal)),
-                //new MenuItem("Booleanos", typeof(Booleanos)),
+                new MenuItem("Decimal", typeof(Decimal)),
+                new MenuItem("Booleanos", typeof(Booleanos)),
                 //new MenuItem("Estruturas", typeof(Estruturas)),
                 //new MenuItem("Enumeracoes", typeof(Enumeracoes)),
                 //new MenuItem("Tipos de Refêrencia", typeof(TiposDeReferencia)),
