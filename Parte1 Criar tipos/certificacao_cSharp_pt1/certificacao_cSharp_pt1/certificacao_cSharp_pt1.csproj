@@ -47,6 +47,7 @@
     <Compile Include="3 Tipos de Ponto Flutuante\PontoFlutuante.cs" />
     <Compile Include="4 Decimal\Decimal.cs" />
     <Compile Include="5 Booleanos\Booleanos.cs" />
+    <Compile Include="6 Estruturas Definidas pelo Usuário\Estruturas.cs" />
     <Compile Include="IAulaItem.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
