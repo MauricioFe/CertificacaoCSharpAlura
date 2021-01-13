@@ -2,6 +2,7 @@
 using certificacao_cSharp_pt1._3_Tipos_de_Ponto_Flutuante;
 using certificacao_cSharp_pt1._5_Booleanos;
 using certificacao_cSharp_pt1._6_Estruturas_Definidas_pelo_Usuário;
+using certificacao_cSharp_pt1._7_Enums;
 using certificacao_cSharp_pt1.Tipos_de_Valor;
 using System;
 using System.Collections.Generic;
