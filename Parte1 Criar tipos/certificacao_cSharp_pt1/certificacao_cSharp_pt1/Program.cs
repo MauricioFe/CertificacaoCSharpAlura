@@ -5,6 +5,11 @@ using certificacao_cSharp_pt1._5_Booleanos;
 using certificacao_cSharp_pt1._6_Estruturas_Definidas_pelo_Usuário;
 using certificacao_cSharp_pt1._7_Enums;
 using certificacao_cSharp_pt1.Aula2___Criar_Tipos_de_referência._2_Classes;
+using certificacao_cSharp_pt1.Aula2___Criar_Tipos_de_referência._3_Interfaces;
+using certificacao_cSharp_pt1.Aula2___Criar_Tipos_de_referência._4_Delegates;
+using certificacao_cSharp_pt1.Aula2___Criar_Tipos_de_referência._5_Objetos;
+using certificacao_cSharp_pt1.Aula2___Criar_Tipos_de_referência._6_Dynamic;
+using certificacao_cSharp_pt1.Aula2___Criar_Tipos_de_referência._7_Strings;
 using certificacao_cSharp_pt1.Tipos_de_Valor;
 using System;
 using System.Collections.Generic;
@@ -87,11 +92,11 @@ namespace certificacao_cSharp_pt1
                 new MenuItem("Enumeracoes", typeof(Enumeracoes)),
                 new MenuItem("Tipos de Refêrencia", typeof(TiposDeReferencia)),
                 new MenuItem("Classes", typeof(Classes)),
-                //new MenuItem("Interfaces", typeof(Interfaces)),
-                //new MenuItem("Delegates", typeof(Delegates)),
-                //new MenuItem("Objetos", typeof(Objetos)),
-                //new MenuItem("Dinâmicos", typeof(Dinamicos)),
-                //new MenuItem("Strings", typeof(Strings)),
+                new MenuItem("Interfaces", typeof(Interfaces)),
+                new MenuItem("Delegates", typeof(Delegates)),
+                new MenuItem("Objetos", typeof(Objetos)),
+                new MenuItem("Dinâmicos", typeof(Dinamicos)),
+                new MenuItem("Strings", typeof(Strings)),
                 //new MenuItem("Metodos", typeof(Metodos)),
                 //new MenuItem("Parâmetros Nomeados", typeof(ParametrosNomeados)),
                 //new MenuItem("Parâmetros Opcionais", typeof(ParametrosOpcionais)),

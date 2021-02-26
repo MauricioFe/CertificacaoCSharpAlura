@@ -51,6 +51,11 @@
     <Compile Include="Aula1 - Tipos de valor\7 Enums\Enumeracoes.cs" />
     <Compile Include="Aula2 - Criar Tipos de referência\1 Tipos de referencia\TiposDeReferencia.cs" />
     <Compile Include="Aula2 - Criar Tipos de referência\2 Classes\Classes.cs" />
+    <Compile Include="Aula2 - Criar Tipos de referência\3 Interfaces\Interfaces.cs" />
+    <Compile Include="Aula2 - Criar Tipos de referência\4 Delegates\Delegates.cs" />
+    <Compile Include="Aula2 - Criar Tipos de referência\5 Objetos\Objetos.cs" />
+    <Compile Include="Aula2 - Criar Tipos de referência\6 Dynamic\Dinamicos.cs" />
+    <Compile Include="Aula2 - Criar Tipos de referência\7 Strings\Strings.cs" />
     <Compile Include="IAulaItem.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
@@ -59,5 +64,6 @@
   <ItemGroup>
     <None Include="App.config" />
   </ItemGroup>
+  <ItemGroup />
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>
