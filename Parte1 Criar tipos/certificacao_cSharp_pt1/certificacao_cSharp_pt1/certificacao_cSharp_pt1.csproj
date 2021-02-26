@@ -43,16 +43,17 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="2 Tipos inteiros\Inteiros.cs" />
-    <Compile Include="3 Tipos de Ponto Flutuante\PontoFlutuante.cs" />
-    <Compile Include="4 Decimal\Decimal.cs" />
-    <Compile Include="5 Booleanos\Booleanos.cs" />
-    <Compile Include="6 Estruturas Definidas pelo Usuário\Estruturas.cs" />
-    <Compile Include="7 Enums\Enumeracoes.cs" />
+    <Compile Include="Aula1 - Tipos de valor\2 Tipos inteiros\Inteiros.cs" />
+    <Compile Include="Aula1 - Tipos de valor\3 Tipos de Ponto Flutuante\PontoFlutuante.cs" />
+    <Compile Include="Aula1 - Tipos de valor\4 Decimal\Decimal.cs" />
+    <Compile Include="Aula1 - Tipos de valor\5 Booleanos\Booleanos.cs" />
+    <Compile Include="Aula1 - Tipos de valor\6 Estruturas Definidas pelo Usuário\Estruturas.cs" />
+    <Compile Include="Aula1 - Tipos de valor\7 Enums\Enumeracoes.cs" />
+    <Compile Include="Aula2 - Criar Tipos de referência\1 Tipos de referencia\TiposDeReferencia.cs" />
     <Compile Include="IAulaItem.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
-    <Compile Include="1 Tipos de Valor\TipoDeValor.cs" />
+    <Compile Include="Aula1 - Tipos de valor\1 Tipos de Valor\TipoDeValor.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="App.config" />

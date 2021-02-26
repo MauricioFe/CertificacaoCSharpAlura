@@ -1,4 +1,5 @@
-﻿using certificacao_cSharp_pt1._2_Tipos_inteiros;
+﻿using certificacao_cSharp_pt1._1_Tipos_de_referencia;
+using certificacao_cSharp_pt1._2_Tipos_inteiros;
 using certificacao_cSharp_pt1._3_Tipos_de_Ponto_Flutuante;
 using certificacao_cSharp_pt1._5_Booleanos;
 using certificacao_cSharp_pt1._6_Estruturas_Definidas_pelo_Usuário;
@@ -83,7 +84,7 @@ namespace certificacao_cSharp_pt1
                 new MenuItem("Booleanos", typeof(Booleanos)),
                 new MenuItem("Estruturas", typeof(Estruturas)),
                 new MenuItem("Enumeracoes", typeof(Enumeracoes)),
-                //new MenuItem("Tipos de Refêrencia", typeof(TiposDeReferencia)),
+                new MenuItem("Tipos de Refêrencia", typeof(TiposDeReferencia)),
                 //new MenuItem("Classes", typeof(Classes)),
                 //new MenuItem("Interfaces", typeof(Interfaces)),
                 //new MenuItem("Delegates", typeof(Delegates)),
