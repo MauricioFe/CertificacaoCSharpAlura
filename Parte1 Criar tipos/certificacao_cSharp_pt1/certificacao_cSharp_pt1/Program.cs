@@ -4,6 +4,7 @@ using certificacao_cSharp_pt1._3_Tipos_de_Ponto_Flutuante;
 using certificacao_cSharp_pt1._5_Booleanos;
 using certificacao_cSharp_pt1._6_Estruturas_Definidas_pelo_Usuário;
 using certificacao_cSharp_pt1._7_Enums;
+using certificacao_cSharp_pt1.Aula2___Criar_Tipos_de_referência._2_Classes;
 using certificacao_cSharp_pt1.Tipos_de_Valor;
 using System;
 using System.Collections.Generic;
@@ -85,7 +86,7 @@ namespace certificacao_cSharp_pt1
                 new MenuItem("Estruturas", typeof(Estruturas)),
                 new MenuItem("Enumeracoes", typeof(Enumeracoes)),
                 new MenuItem("Tipos de Refêrencia", typeof(TiposDeReferencia)),
-                //new MenuItem("Classes", typeof(Classes)),
+                new MenuItem("Classes", typeof(Classes)),
                 //new MenuItem("Interfaces", typeof(Interfaces)),
                 //new MenuItem("Delegates", typeof(Delegates)),
                 //new MenuItem("Objetos", typeof(Objetos)),

@@ -50,6 +50,7 @@
     <Compile Include="Aula1 - Tipos de valor\6 Estruturas Definidas pelo Usuário\Estruturas.cs" />
     <Compile Include="Aula1 - Tipos de valor\7 Enums\Enumeracoes.cs" />
     <Compile Include="Aula2 - Criar Tipos de referência\1 Tipos de referencia\TiposDeReferencia.cs" />
+    <Compile Include="Aula2 - Criar Tipos de referência\2 Classes\Classes.cs" />
     <Compile Include="IAulaItem.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
