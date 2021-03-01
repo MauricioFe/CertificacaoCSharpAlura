@@ -56,6 +56,7 @@
     <Compile Include="Aula2 - Criar Tipos de referência\5 Objetos\Objetos.cs" />
     <Compile Include="Aula2 - Criar Tipos de referência\6 Dynamic\Dinamicos.cs" />
     <Compile Include="Aula2 - Criar Tipos de referência\7 Strings\Strings.cs" />
+    <Compile Include="Aula3 - classes, métodos, métodos de exprensão\2 Metodos\Metodos.cs" />
     <Compile Include="IAulaItem.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
