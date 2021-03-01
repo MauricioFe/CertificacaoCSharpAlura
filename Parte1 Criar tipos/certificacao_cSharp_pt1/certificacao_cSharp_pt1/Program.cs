@@ -15,6 +15,8 @@ using certificacao_cSharp_pt1.Aula3___classes__métodos__métodos_de_exprensão.
 using certificacao_cSharp_pt1.Aula3___classes__métodos__métodos_de_exprensão._4_Metodos_de_Extensão;
 using certificacao_cSharp_pt1.Aula3___classes__métodos__métodos_de_exprensão._5_Propriedades_Indexadas;
 using certificacao_cSharp_pt1.Aula4___criar_métodos_sobrecarregados_e_substituídos._1__Métodos_Sobrecarregados;
+using certificacao_cSharp_pt1.Aula5___box_ou_unbox_para_converter_entre_tipos_de_valor._1___Boxing;
+using certificacao_cSharp_pt1.Aula5___box_ou_unbox_para_converter_entre_tipos_de_valor._2___Unboxing;
 using certificacao_cSharp_pt1.Tipos_de_Valor;
 
 using System;
@@ -110,13 +112,13 @@ namespace certificacao_cSharp_pt1
                 new MenuItem("Propriedades Indexadas", typeof(PropriedadesIndexadas)),
                 new MenuItem("Sobrecargas", typeof(Sobrecargas)),
                 new MenuItem("Métodos Substituidos", typeof(MetodosSubstituidos)),
-                //new MenuItem("Boxing", typeof(Boxing)),
-                //new MenuItem("Unboxing", typeof(Unboxing)),
-                //new MenuItem("Conversoes Implícitas", typeof(ConversoesImplicitas)),
-                //new MenuItem("Conversoes Explícitas", typeof(ConversoesExplicitas)),
-                //new MenuItem("Operadores IS e AS", typeof(OperadoresISeAS)),
-                //new MenuItem("Operadores de Conversão", typeof(OperadoresDeConversao)),
-                //new MenuItem("Métodos Auxiliares de Conversão", typeof(MetodosAuxiliares)),
+                new MenuItem("Boxing", typeof(Boxing)),
+                new MenuItem("Unboxing", typeof(Unboxing)),
+                new MenuItem("Conversoes Implícitas", typeof(ConversoesImplicitas)),
+                new MenuItem("Conversoes Explícitas", typeof(ConversoesExplicitas)),
+                new MenuItem("Operadores IS e AS", typeof(OperadoresISeAS)),
+                new MenuItem("Operadores de Conversão", typeof(OperadoresDeConversao)),
+                new MenuItem("Métodos Auxiliares de Conversão", typeof(MetodosAuxiliares)),
                 //new MenuItem("Usando Dynamic", typeof(UsandoDynamic)),
                 //new MenuItem("Conversões de Dynamic", typeof(ConversoesDeDynamic)),
                 //new MenuItem("Resolucão de Sobrecarga", typeof(ResolucaoSobrecarga)),
