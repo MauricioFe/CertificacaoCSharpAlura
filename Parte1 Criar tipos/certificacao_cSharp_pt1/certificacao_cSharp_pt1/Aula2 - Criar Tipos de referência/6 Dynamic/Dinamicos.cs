@@ -10,7 +10,12 @@ namespace certificacao_cSharp_pt1.Aula2___Criar_Tipos_de_referência._6_Dynamic
     {
         public void Executar()
         {
-            throw new NotImplementedException();
+            object objeto = 1;
+            //objeto += 3;
+           
+            dynamic dinamico = 1;
+            dinamico += 3;
+            Console.WriteLine(dinamico);
         }
     }
 }
