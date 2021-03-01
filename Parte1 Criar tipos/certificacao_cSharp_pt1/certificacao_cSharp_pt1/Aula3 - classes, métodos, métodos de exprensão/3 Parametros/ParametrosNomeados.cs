@@ -4,7 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace certificacao_cSharp_pt1.Aula3___classes__métodos__métodos_de_exprensão._3_Parametros
+namespace certificacao_cSharp_pt1
 {
     class ParametrosNomeados : IAulaItem
     {

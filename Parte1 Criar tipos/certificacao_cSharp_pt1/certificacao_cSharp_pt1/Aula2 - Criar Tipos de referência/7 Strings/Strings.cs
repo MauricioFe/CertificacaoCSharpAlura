@@ -4,7 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace certificacao_cSharp_pt1.Aula2___Criar_Tipos_de_referência._7_Strings
+namespace certificacao_cSharp_pt1
 {
     class Strings : IAulaItem
     {

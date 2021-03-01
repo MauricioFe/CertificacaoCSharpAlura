@@ -4,7 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace certificacao_cSharp_pt1._4_Decimal
+namespace certificacao_cSharp_pt1
 {
     class Decimal : IAulaItem
     {

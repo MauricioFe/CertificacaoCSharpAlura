@@ -4,7 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace certificacao_cSharp_pt1._5_Booleanos
+namespace certificacao_cSharp_pt1
 {
     class Booleanos : IAulaItem
     {

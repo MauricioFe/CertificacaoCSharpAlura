@@ -1,11 +1,10 @@
-﻿using certificacao_cSharp_pt1._6_Estruturas_Definidas_pelo_Usuário;
-using System;
+﻿using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace certificacao_cSharp_pt1.Aula2___Criar_Tipos_de_referência._2_Classes
+namespace certificacao_cSharp_pt1
 {
     class Classes : IAulaItem
     {

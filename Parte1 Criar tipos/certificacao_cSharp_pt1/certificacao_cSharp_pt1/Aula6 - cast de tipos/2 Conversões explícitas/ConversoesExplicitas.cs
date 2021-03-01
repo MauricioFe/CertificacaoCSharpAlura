@@ -6,16 +6,10 @@ using System.Threading.Tasks;
 
 namespace certificacao_cSharp_pt1
 {
-    class Dinamicos : IAulaItem
+    class ConversoesExplicitas : IAulaItem
     {
         public void Executar()
         {
-            object objeto = 1;
-            //objeto += 3;
-           
-            dynamic dinamico = 1;
-            dinamico += 3;
-            Console.WriteLine(dinamico);
         }
     }
 }

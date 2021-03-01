@@ -60,12 +60,16 @@
     <Compile Include="Aula3 - classes, métodos, métodos de exprensão\3 Parametros\ParametrosNomeados.cs" />
     <Compile Include="Aula3 - classes, métodos, métodos de exprensão\3 Parametros\ParametrosOpcionais.cs" />
     <Compile Include="Aula3 - classes, métodos, métodos de exprensão\4 Metodos de Extensão\MetodosDeExtensao.cs" />
-    <Compile Include="Aula3 - classes, métodos, métodos de exprensão\5 Propriedades Indexadas\IDictionary.cs" />
     <Compile Include="Aula3 - classes, métodos, métodos de exprensão\5 Propriedades Indexadas\PropriedadesIndexadas.cs" />
     <Compile Include="Aula4 - criar métodos sobrecarregados e substituídos\1  Métodos Sobrecarregados\Sobrecargas.cs" />
     <Compile Include="Aula4 - criar métodos sobrecarregados e substituídos\2  Métodos Substituídos\MetodosSubstituidos.cs" />
     <Compile Include="Aula5 - box ou unbox para converter entre tipos de valor\1 - Boxing\Boxing.cs" />
     <Compile Include="Aula5 - box ou unbox para converter entre tipos de valor\2 - Unboxing\Unboxing.cs" />
+    <Compile Include="Aula6 - cast de tipos\1 Conversões implícitas\ConversoesImplicitas.cs" />
+    <Compile Include="Aula6 - cast de tipos\2 Conversões explícitas\ConversoesExplicitas.cs" />
+    <Compile Include="Aula6 - cast de tipos\3 Operadores IS e AS\OperadoresISeAS.cs" />
+    <Compile Include="Aula6 - cast de tipos\4 Conversões definidas pelo usuário\OperadoresDeConversao.cs" />
+    <Compile Include="Aula6 - cast de tipos\5 Conversões com classes auxiliares\MetodosAuxiliares.cs" />
     <Compile Include="IAulaItem.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />

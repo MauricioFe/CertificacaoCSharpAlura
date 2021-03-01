@@ -4,7 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace certificacao_cSharp_pt1._2_Tipos_inteiros
+namespace certificacao_cSharp_pt1
 {
     class Inteiros : IAulaItem
     {

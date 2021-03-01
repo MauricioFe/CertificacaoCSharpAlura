@@ -4,7 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace certificacao_cSharp_pt1._3_Tipos_de_Ponto_Flutuante
+namespace certificacao_cSharp_pt1
 {
     class PontoFlutuante : IAulaItem
     {

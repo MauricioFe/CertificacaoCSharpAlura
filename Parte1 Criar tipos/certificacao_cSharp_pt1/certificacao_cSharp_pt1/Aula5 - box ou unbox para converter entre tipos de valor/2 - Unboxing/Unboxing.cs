@@ -4,7 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace certificacao_cSharp_pt1.Aula5___box_ou_unbox_para_converter_entre_tipos_de_valor._2___Unboxing
+namespace certificacao_cSharp_pt1
 {
     class Unboxing : IAulaItem
     {

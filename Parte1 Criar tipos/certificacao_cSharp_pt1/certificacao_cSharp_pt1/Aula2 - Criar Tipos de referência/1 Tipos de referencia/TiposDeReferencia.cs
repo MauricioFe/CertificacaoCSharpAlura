@@ -4,7 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace certificacao_cSharp_pt1._1_Tipos_de_referencia
+namespace certificacao_cSharp_pt1
 {
     class TiposDeReferencia : IAulaItem
     {
@@ -38,20 +38,22 @@ namespace certificacao_cSharp_pt1._1_Tipos_de_referencia
             Console.WriteLine($"cliente2: {cliente2}");
         }
 
-        class Cliente
-        {
-            public Cliente(string nome, int idade)
-            {
-                Nome = nome;
-                Idade = idade;
-            }
-            public string Nome { get; set; }
-            public int Idade { get; set; }
-            public override string ToString()
-            {
-                return $"Nome: {Nome}, Idade: {Idade}";
 
-            }
+
+    }
+    class Cliente
+    {
+        public Cliente(string nome, int idade)
+        {
+            Nome = nome;
+            Idade = idade;
+        }
+        public string Nome { get; set; }
+        public int Idade { get; set; }
+        public override string ToString()
+        {
+            return $"Nome: {Nome}, Idade: {Idade}";
+
         }
     }
 }

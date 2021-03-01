@@ -4,7 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace certificacao_cSharp_pt1._6_Estruturas_Definidas_pelo_Usuário
+namespace certificacao_cSharp_pt1
 {
     class Estruturas : IAulaItem
     {
