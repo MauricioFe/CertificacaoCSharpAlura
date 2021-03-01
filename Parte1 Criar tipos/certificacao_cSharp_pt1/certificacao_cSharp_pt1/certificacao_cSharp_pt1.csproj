@@ -60,6 +60,8 @@
     <Compile Include="Aula3 - classes, métodos, métodos de exprensão\3 Parametros\ParametrosNomeados.cs" />
     <Compile Include="Aula3 - classes, métodos, métodos de exprensão\3 Parametros\ParametrosOpcionais.cs" />
     <Compile Include="Aula3 - classes, métodos, métodos de exprensão\4 Metodos de Extensão\MetodosDeExtensao.cs" />
+    <Compile Include="Aula3 - classes, métodos, métodos de exprensão\5 Propriedades Indexadas\IDictionary.cs" />
+    <Compile Include="Aula3 - classes, métodos, métodos de exprensão\5 Propriedades Indexadas\PropriedadesIndexadas.cs" />
     <Compile Include="IAulaItem.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
