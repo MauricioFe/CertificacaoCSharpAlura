@@ -62,6 +62,8 @@
     <Compile Include="Aula3 - classes, métodos, métodos de exprensão\4 Metodos de Extensão\MetodosDeExtensao.cs" />
     <Compile Include="Aula3 - classes, métodos, métodos de exprensão\5 Propriedades Indexadas\IDictionary.cs" />
     <Compile Include="Aula3 - classes, métodos, métodos de exprensão\5 Propriedades Indexadas\PropriedadesIndexadas.cs" />
+    <Compile Include="Aula4 - criar métodos sobrecarregados e substituídos\1  Métodos Sobrecarregados\Sobrecargas.cs" />
+    <Compile Include="Aula4 - criar métodos sobrecarregados e substituídos\2  Métodos Substituídos\MetodosSubstituidos.cs" />
     <Compile Include="IAulaItem.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />

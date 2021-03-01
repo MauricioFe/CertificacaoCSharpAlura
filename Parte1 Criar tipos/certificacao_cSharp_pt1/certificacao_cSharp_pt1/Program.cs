@@ -14,7 +14,9 @@ using certificacao_cSharp_pt1.Aula3___classes__métodos__métodos_de_exprensão.
 using certificacao_cSharp_pt1.Aula3___classes__métodos__métodos_de_exprensão._3_Parametros;
 using certificacao_cSharp_pt1.Aula3___classes__métodos__métodos_de_exprensão._4_Metodos_de_Extensão;
 using certificacao_cSharp_pt1.Aula3___classes__métodos__métodos_de_exprensão._5_Propriedades_Indexadas;
+using certificacao_cSharp_pt1.Aula4___criar_métodos_sobrecarregados_e_substituídos._1__Métodos_Sobrecarregados;
 using certificacao_cSharp_pt1.Tipos_de_Valor;
+
 using System;
 using System.Collections.Generic;
 using System.Linq;
@@ -106,8 +108,8 @@ namespace certificacao_cSharp_pt1
                 new MenuItem("Parâmetros Opcionais", typeof(ParametrosOpcionais)),
                 new MenuItem("Métodos de Extensão", typeof(MetodosDeExtensao)),
                 new MenuItem("Propriedades Indexadas", typeof(PropriedadesIndexadas)),
-                //new MenuItem("Sobrecargas", typeof(Sobrecargas)),
-                //new MenuItem("Métodos Substituidos", typeof(MetodosSubstituidos)),
+                new MenuItem("Sobrecargas", typeof(Sobrecargas)),
+                new MenuItem("Métodos Substituidos", typeof(MetodosSubstituidos)),
                 //new MenuItem("Boxing", typeof(Boxing)),
                 //new MenuItem("Unboxing", typeof(Unboxing)),
                 //new MenuItem("Conversoes Implícitas", typeof(ConversoesImplicitas)),
