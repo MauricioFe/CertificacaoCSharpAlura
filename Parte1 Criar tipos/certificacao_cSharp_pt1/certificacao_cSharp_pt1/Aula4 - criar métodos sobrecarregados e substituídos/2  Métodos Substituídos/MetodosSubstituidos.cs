@@ -6,6 +6,7 @@ using System.Threading.Tasks;
 
 namespace certificacao_cSharp_pt1
 {
+
     class MetodosSubstituidos : IAulaItem
     {
         public void Executar()
@@ -19,11 +20,17 @@ namespace certificacao_cSharp_pt1
             gata.Beber();
             gata.Comer();
             gata.Andar();
-
         }
     }
 
-    class Animal
+    interface IAnimal
+    {
+        void Beber();
+        void Comer();
+        void Andar();
+    }
+
+    class Animal : IAnimal
     {
         public String Nome { get; set; }
 
@@ -31,7 +38,7 @@ namespace certificacao_cSharp_pt1
         {
             Console.WriteLine("Animal.Beber");
         }
-        //virtual permite que o método seja sobreescrito
+
         public virtual void Comer()
         {
             Console.WriteLine("Animal.Comer");

@@ -22,8 +22,10 @@ namespace certificacao_cSharp_pt1
             Animal animal = gato;
 
             Console.WriteLine(animal.GetType());
+            IAnimal ianimal = gato;
+            Console.WriteLine(ianimal.GetType());
 
-            IAnimal
+            
 
         }
     }
