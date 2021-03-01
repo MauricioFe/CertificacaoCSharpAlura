@@ -11,6 +11,7 @@ using certificacao_cSharp_pt1.Aula2___Criar_Tipos_de_referência._5_Objetos;
 using certificacao_cSharp_pt1.Aula2___Criar_Tipos_de_referência._6_Dynamic;
 using certificacao_cSharp_pt1.Aula2___Criar_Tipos_de_referência._7_Strings;
 using certificacao_cSharp_pt1.Aula3___classes__métodos__métodos_de_exprensão._2_Metodos;
+using certificacao_cSharp_pt1.Aula3___classes__métodos__métodos_de_exprensão._3_Parametros;
 using certificacao_cSharp_pt1.Tipos_de_Valor;
 using System;
 using System.Collections.Generic;
@@ -99,8 +100,8 @@ namespace certificacao_cSharp_pt1
                 new MenuItem("Dinâmicos", typeof(Dinamicos)),
                 new MenuItem("Strings", typeof(Strings)),
                 new MenuItem("Metodos", typeof(Metodos)),
-                //new MenuItem("Parâmetros Nomeados", typeof(ParametrosNomeados)),
-                //new MenuItem("Parâmetros Opcionais", typeof(ParametrosOpcionais)),
+                new MenuItem("Parâmetros Nomeados", typeof(ParametrosNomeados)),
+                new MenuItem("Parâmetros Opcionais", typeof(ParametrosOpcionais)),
                 //new MenuItem("Métodos de Extensão", typeof(MetodosDeExtensao)),
                 //new MenuItem("Propriedades Indexadas", typeof(PropriedadesIndexadas)),
                 //new MenuItem("Sobrecargas", typeof(Sobrecargas)),
